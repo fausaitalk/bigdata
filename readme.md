@@ -7,3 +7,4 @@
 [国产自研开源大数据管理平台DataSophon Manager安装教程](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247495337&idx=1&sn=ca1c17b2f55f3ea098479acc553419e8&chksm=c0115a84f766d39277d469fd4bec9fde47bf2a7220e04944afcaba0bcb7c69da5e1aba29c794&scene=178&cur_album_id=1962974926114488321#rd)
 
 [国产自研开源大数据管理平台DataSophon服务组件安装教程](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&amp;mid=2247495405&amp;idx=1&amp;sn=471cf48a141c0c2bf2e80417bb692bf7&amp;scene=19&token=1565926961&lang=zh_CN#wechat_redirect)
+
